@@ -2,7 +2,7 @@
 
 
 ## Labric?
-Idk it's just to put some name.
+Idk just so i have a name for this.
 Labric = Legacy + Fabric.
 This is still Work In Progress for LCE so don't expect much yet.
 
