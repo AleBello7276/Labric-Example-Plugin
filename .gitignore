@@ -1,0 +1,6 @@
+
+.vscode/
+build/*
+
+# Local help tools and things
+xe.bat
